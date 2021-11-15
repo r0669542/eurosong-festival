@@ -6,3 +6,11 @@ Vue.config.productionTip = false
 new Vue({
   render: h => h(App),
 }).$mount('#app')
+
+for (let i = 0; i < 10; i++) {
+  console.log(i);
+}
+
+const firstname = "Arno";
+console.log(firstname);
+
