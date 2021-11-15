@@ -12,5 +12,6 @@ for (let i = 0; i < 10; i++) {
 }
 
 const firstname = "Arno";
+const name = "Hemeleers"
 console.log(firstname);
 
