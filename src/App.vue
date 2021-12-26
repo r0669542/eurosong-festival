@@ -37,7 +37,7 @@
     },
     data() {
       return {
-        page: "game" 
+        page: "ranking" 
       }
     },
     methods: {
@@ -47,3 +47,7 @@
     }
   }
 </script>
+
+<style lang="scss">
+  @import "./scss/style.scss";
+</style>
